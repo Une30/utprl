@@ -40,5 +40,5 @@ gem 'spring',        group: :development
 
 # Posrgresql Database for production
 group :production do
-	gem 'pg'
+  gem 'pg'
 end 
